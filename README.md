@@ -1,10 +1,10 @@
-# Eventify
+# OneClickEvent 
 
-Eventify is a state-of-the-art Event Management System designed to simplify and enhance the process of organizing and managing events. Our mission is encapsulated in our tagline: Simplify, Plan, Celebrate.
+OneClickEvent  is a state-of-the-art Event Management System designed to simplify and enhance the process of organizing and managing events. Our mission is encapsulated in our tagline: Simplify, Plan, Celebrate.
 
 ## Table of Contents
 
-- [About Eventify](#about-eventify)
+- [About OneClickEvent ](#about-OneClickEvent )
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
@@ -12,9 +12,9 @@ Eventify is a state-of-the-art Event Management System designed to simplify and 
 - [Contributing](#contributing)
 - [License](#license)
 
-## About Eventify
+## About OneClickEvent 
 
-Eventify is an innovative solution tailored for event organizers, providing a comprehensive platform to handle every aspect of event management.
+OneClickEvent  is an innovative solution tailored for event organizers, providing a comprehensive platform to handle every aspect of event management.
 
 ## Features
 
@@ -41,12 +41,12 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/eventify.git
+    git clone https://github.com/your-username/OneClickEvent .git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd eventify
+    cd OneClickEvent 
     ```
 
 3. **Install dependencies**:
@@ -67,7 +67,7 @@ Once the server is running, you can access the application at `http://localhost:
 
 ## Contributing
 
-We welcome contributions to enhance Eventify. To contribute, follow these steps:
+We welcome contributions to enhance OneClickEvent . To contribute, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
@@ -81,4 +81,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Thank you for using Eventify! Simplify, Plan, Celebrate.
+Thank you for using OneClickEvent ! Simplify, Plan, Celebrate.
